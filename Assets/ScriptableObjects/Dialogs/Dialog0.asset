@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 798668cf8c6653747947eff6e2e21db4, type: 3}
+  m_Name: Dialog0
+  m_EditorClassIdentifier: 
+  _dialogId: 0
+  _dialogText: "\u0423 \u0432\u0430\u0441 \u0432 \u0444\u0430\u043C\u0438\u043B\u0438\u0438
+    \u0435\u0441\u0442\u044C \u0431\u0443\u043A\u0432\u0430 \"\u0420\"?"
+  _choices:
+  - {fileID: 11400000, guid: 1cdf1a6a87012be4e980e7e21d322500, type: 2}
+  - {fileID: 11400000, guid: 46934b33711194042b5c8537139f7b0f, type: 2}
+  _requirements:
+    minReputation: 0
+    requiredPreviousDialogeChoise: []
